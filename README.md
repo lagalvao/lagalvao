@@ -1,6 +1,6 @@
 # Olá, eu sou Leonardo 👋
 
-- 🔭 Trabalho como Help Desk na empresa Agropecuária Pau D'alho
+- 🔭 Trabalho como Desenvolvedor FrontEnd na empresa DXC Technology
 - 🌱 Atualmente aprendendo ReactJS, React Native e NodeJS
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lagalvao)](https://github.com/lagalvao)
