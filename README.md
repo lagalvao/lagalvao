@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho como Desenvolvedor FrontEnd na empresa DXC Technology
 - 🔭 Presto serviço como Desenvolvedor FrontEnd na empresa Facens
-- 🌱 Atualmente aprendendo ReactJS, React Native e NodeJS
+- 🌱 Atualmente trabalhando com ReactJS, AngularJS, Ionic, NestJS
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lagalvao)](https://github.com/lagalvao)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-augusto-galvao)](https://www.linkedin.com/in/leonardo-augusto-galvao)
