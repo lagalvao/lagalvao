@@ -1,7 +1,7 @@
 # Olá, eu sou Leonardo 👋
 
 - 🔭 Trabalho como Desenvolvedor FrontEnd na empresa DXC Technology
-- 🔭 Presto serviço como Desenvolvedor FrontEnd na empresa Facens
+- 🔭 Atuo como prestador de serviço no desenvlvovimento FrontEnd na empresa Facens
 - 🌱 Atualmente trabalhando com ReactJS, AngularJS, Ionic, NestJS
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lagalvao)](https://github.com/lagalvao)
